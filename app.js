@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+    
     const celsiusInput = document.getElementById('celsius-input');
     const convertBtn = document.getElementById('convert-btn');
     const promptBtn = document.getElementById('prompt-btn');
